@@ -258,10 +258,6 @@ article h3 {
 }
 
 
-article h3::before {
-    content: 'Read';
-}
-
 article:hover {
     background-color: #5A98F2;
     color: #fff;
